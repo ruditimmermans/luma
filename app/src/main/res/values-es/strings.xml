@@ -18,10 +18,6 @@
     <string name="settings_gestures">Gestos</string>
     <string name="settings_notifications">Notificaciones</string>
     <string name="settings_status_bar">Barra de estado</string>
-    <string name="status_bar_visibility">Visibilidad</string>
-    <string name="status_bar_enabled">Activado</string>
-    <string name="status_bar_mode_none">Desactivado</string>
-    <string name="status_bar_mode_android">Activado (Android)</string>
     <string name="action_open_app">Abrir aplicación</string>
     <string name="action_lock_screen">Bloquear pantalla</string>
     <string name="action_show_notifications">Notificaciones (Android)</string>
@@ -57,7 +53,10 @@
     <string name="notifications_not_visible_permission_required">no visible (se requiere permiso)</string>
 
     <!-- Status bar screen -->
+    <string name="status_bar_visibility">Visibilidad</string>
     <string name="status_bar_enabled">Activado</string>
+    <string name="status_bar_mode_none">Desactivado</string>
+    <string name="status_bar_mode_android">Activado (Android)</string>
     <string name="status_bar_time">Hora</string>
     <string name="status_bar_time_enabled">Activado</string>
     <string name="status_bar_time_format">Formato de hora</string>

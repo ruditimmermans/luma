@@ -62,7 +62,10 @@
     <string name="notifications_not_visible_permission_required">ไม่แสดง (ต้องได้รับอนุญาต)</string>
 
     <!-- Status bar -->
+    <string name="status_bar_visibility">การมองเห็น</string>
     <string name="status_bar_enabled">เปิด</string>
+    <string name="status_bar_mode_none">ปิดใช้งาน</string>
+    <string name="status_bar_mode_android">เปิดใช้งาน (Android)</string>
     <string name="status_bar_time">เวลา</string>
     <string name="status_bar_time_enabled">เปิด</string>
     <string name="status_bar_time_format">รูปแบบเวลา</string>
@@ -100,6 +103,8 @@
     <string name="app_actions_show">แสดง</string>
     <string name="app_actions_hide">ซ่อน</string>
     <string name="app_actions_rename">เปลี่ยนชื่อ</string>
+    <string name="app_actions_pin">ปักหมุด</string>
+    <string name="app_actions_unpin">เลิกปักหมุด</string>
     <string name="app_actions_replace">แทนที่</string>
     <string name="app_actions_move_up">ย้ายขึ้น</string>
     <string name="app_actions_move_down">ย้ายลง</string>

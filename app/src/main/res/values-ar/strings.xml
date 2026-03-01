@@ -57,7 +57,10 @@
     <string name="notifications_not_visible_permission_required">غير مرئي (يتطلب إذن)</string>
 
     <!-- Status bar -->
+    <string name="status_bar_visibility">الرؤية</string>
     <string name="status_bar_enabled">مفعّل</string>
+    <string name="status_bar_mode_none">معطّل</string>
+    <string name="status_bar_mode_android">مُفعَّل (Android)</string>
     <string name="status_bar_time">الوقت</string>
     <string name="status_bar_time_enabled">مفعّل</string>
     <string name="status_bar_time_format">تنسيق الوقت</string>
@@ -95,6 +98,8 @@
     <string name="app_actions_show">إظهار</string>
     <string name="app_actions_hide">إخفاء</string>
     <string name="app_actions_rename">إعادة تسمية</string>
+    <string name="app_actions_pin">تثبيت</string>
+    <string name="app_actions_unpin">إلغاء التثبيت</string>
     <string name="app_actions_replace">استبدال</string>
     <string name="app_actions_move_up">تحريك لأعلى</string>
     <string name="app_actions_move_down">تحريك لأسفل</string>

@@ -18,10 +18,6 @@
     <string name="settings_gestures">Cử chỉ</string>
     <string name="settings_notifications">Thông báo</string>
     <string name="settings_status_bar">Thanh trạng thái</string>
-    <string name="settings_hidden_apps">Ẩn ứng dụng</string>
-    <string name="settings_default_launcher">Trình khởi chạy mặc định</string>
-
-    <!-- Gesture actions -->
     <string name="action_open_app">Mở app</string>
     <string name="action_lock_screen">Màn hình khoá</string>
     <string name="action_show_notifications">Thông báo (Android)</string>
@@ -62,7 +58,10 @@
     <string name="notifications_not_visible_permission_required">không hiển thị (cần quyền)</string>
 
     <!-- Status bar -->
+    <string name="status_bar_visibility">Khả năng hiển thị</string>
     <string name="status_bar_enabled">Bật</string>
+    <string name="status_bar_mode_none">Tắt</string>
+    <string name="status_bar_mode_android">Bật (Android)</string>
     <string name="status_bar_time">Thời gian</string>
     <string name="status_bar_time_enabled">Bật</string>
     <string name="status_bar_time_format">Định dạng thời gian</string>
@@ -100,6 +99,8 @@
     <string name="app_actions_show">Hiển thị</string>
     <string name="app_actions_hide">Ẩn</string>
     <string name="app_actions_rename">Đổi tên</string>
+    <string name="app_actions_pin">Ghim</string>
+    <string name="app_actions_unpin">Bỏ ghim</string>
     <string name="app_actions_replace">Thay thế</string>
     <string name="app_actions_move_up">Di chuyển lên</string>
     <string name="app_actions_move_down">Di chuyển xuống</string>

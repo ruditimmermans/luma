@@ -57,7 +57,10 @@
     <string name="notifications_not_visible_permission_required">nicht sichtbar (Berechtigung erforderlich)</string>
 
     <!-- Status bar screen -->
+    <string name="status_bar_visibility">Sichtbarkeit</string>
     <string name="status_bar_enabled">Aktiviert</string>
+    <string name="status_bar_mode_none">Deaktiviert</string>
+    <string name="status_bar_mode_android">Aktiviert (Android)</string>
     <string name="status_bar_time">Uhrzeit</string>
     <string name="status_bar_time_enabled">Aktiviert</string>
     <string name="status_bar_time_format">Uhrzeitformat</string>
@@ -95,6 +98,8 @@
     <string name="app_actions_show">Anzeigen</string>
     <string name="app_actions_hide">Verstecken</string>
     <string name="app_actions_rename">Umbenennen</string>
+    <string name="app_actions_pin">Anheften</string>
+    <string name="app_actions_unpin">Loslösen</string>
     <string name="app_actions_replace">Ersetzen</string>
     <string name="app_actions_move_up">Nach oben</string>
     <string name="app_actions_move_down">Nach unten</string>

@@ -61,7 +61,10 @@
     <string name="notifications_not_visible_permission_required">非表示（権限が必要）</string>
 
     <!-- Status bar -->
+    <string name="status_bar_visibility">表示設定</string>
     <string name="status_bar_enabled">有効</string>
+    <string name="status_bar_mode_none">無効</string>
+    <string name="status_bar_mode_android">有効 (Android)</string>
     <string name="status_bar_time">時刻</string>
     <string name="status_bar_time_enabled">有効</string>
     <string name="status_bar_time_format">時刻形式</string>
@@ -99,6 +102,8 @@
     <string name="app_actions_show">表示</string>
     <string name="app_actions_hide">非表示</string>
     <string name="app_actions_rename">名前変更</string>
+    <string name="app_actions_pin">ピン留め</string>
+    <string name="app_actions_unpin">ピン留め解除</string>
     <string name="app_actions_replace">置換</string>
     <string name="app_actions_move_up">上に移動</string>
     <string name="app_actions_move_down">下に移動</string>

@@ -62,7 +62,10 @@
 
     <!-- Status bar -->
     <string name="settings_status_bar">Durum çubuğu</string>
+    <string name="status_bar_visibility">Görünürlük</string>
     <string name="status_bar_enabled">Etkin</string>
+    <string name="status_bar_mode_none">Devre Dışı</string>
+    <string name="status_bar_mode_android">Etkin (Android)</string>
     <string name="status_bar_time">Saat</string>
     <string name="status_bar_time_enabled">Etkin</string>
     <string name="status_bar_time_format">Saat biçimi</string>
@@ -100,6 +103,8 @@
     <string name="app_actions_show">Göster</string>
     <string name="app_actions_hide">Gizle</string>
     <string name="app_actions_rename">Yeniden adlandır</string>
+    <string name="app_actions_pin">Sabitle</string>
+    <string name="app_actions_unpin">Sabitlemeyi Kaldır</string>
     <string name="app_actions_replace">Değiştir</string>
     <string name="app_actions_move_up">Yukarı Taşı</string>
     <string name="app_actions_move_down">Aşağı Taşı</string>

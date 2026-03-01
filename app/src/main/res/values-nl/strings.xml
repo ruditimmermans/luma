@@ -61,7 +61,10 @@
     <string name="notifications_not_visible_permission_required">niet zichtbaar (toestemming vereist)</string>
 
     <!-- Status bar screen -->
+    <string name="status_bar_visibility">Zichtbaarheid</string>
     <string name="status_bar_enabled">Ingeschakeld</string>
+    <string name="status_bar_mode_none">Uitgeschakeld</string>
+    <string name="status_bar_mode_android">Ingeschakeld (Android)</string>
     <string name="status_bar_time">Tijd</string>
     <string name="status_bar_time_enabled">Ingeschakeld</string>
     <string name="status_bar_time_format">Tijdnotatie</string>
@@ -99,6 +102,8 @@
     <string name="app_actions_show">Tonen</string>
     <string name="app_actions_hide">Verbergen</string>
     <string name="app_actions_rename">Hernoemen</string>
+    <string name="app_actions_pin">Vastzetten</string>
+    <string name="app_actions_unpin">Losmaken</string>
     <string name="app_actions_replace">Vervangen</string>
     <string name="app_actions_move_up">Omhoog</string>
     <string name="app_actions_move_down">Omlaag</string>

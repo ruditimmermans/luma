@@ -61,7 +61,10 @@
     <string name="notifications_not_visible_permission_required">표시 안 함 (권한 필요)</string>
 
     <!-- Status bar -->
+    <string name="status_bar_visibility">표시 설정</string>
     <string name="status_bar_enabled">사용</string>
+    <string name="status_bar_mode_none">비활성화</string>
+    <string name="status_bar_mode_android">활성화 (Android)</string>
     <string name="status_bar_time">시간</string>
     <string name="status_bar_time_enabled">사용</string>
     <string name="status_bar_time_format">시간 형식</string>
@@ -99,6 +102,8 @@
     <string name="app_actions_show">표시</string>
     <string name="app_actions_hide">숨기기</string>
     <string name="app_actions_rename">이름 변경</string>
+    <string name="app_actions_pin">고정</string>
+    <string name="app_actions_unpin">고정 해제</string>
     <string name="app_actions_replace">교체</string>
     <string name="app_actions_move_up">위로 이동</string>
     <string name="app_actions_move_down">아래로 이동</string>

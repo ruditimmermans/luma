@@ -61,7 +61,10 @@
 
     <!-- Status bar -->
     <string name="settings_status_bar">Būsenos juosta</string>
+    <string name="status_bar_visibility">Matomumas</string>
     <string name="status_bar_enabled">Įjungta</string>
+    <string name="status_bar_mode_none">Išjungta</string>
+    <string name="status_bar_mode_android">Įjungta (Android)</string>
     <string name="status_bar_time">Laikas</string>
     <string name="status_bar_time_enabled">Įjungta</string>
     <string name="status_bar_time_format">Laiko formatas</string>
@@ -99,6 +102,8 @@
     <string name="app_actions_show">Rodyti</string>
     <string name="app_actions_hide">Slėpti</string>
     <string name="app_actions_rename">Pervadinti</string>
+    <string name="app_actions_pin">Prisegti</string>
+    <string name="app_actions_unpin">Atsegti</string>
     <string name="app_actions_replace">Pakeisti</string>
     <string name="app_actions_move_up">Perkelti aukštyn</string>
     <string name="app_actions_move_down">Perkelti žemyn</string>

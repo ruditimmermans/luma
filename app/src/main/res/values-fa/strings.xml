@@ -62,7 +62,10 @@
     <string name="notifications_not_visible_permission_required">غیر قابل مشاهده (نیاز به مجوز)</string>
 
     <!-- Status bar -->
+    <string name="status_bar_visibility">نمایان‌پذیری</string>
     <string name="status_bar_enabled">فعال</string>
+    <string name="status_bar_mode_none">غیرفعال</string>
+    <string name="status_bar_mode_android">فعال (اندروید)</string>
     <string name="status_bar_time">زمان</string>
     <string name="status_bar_time_enabled">فعال</string>
     <string name="status_bar_time_format">قالب زمان</string>
@@ -100,6 +103,8 @@
     <string name="app_actions_show">نمایش</string>
     <string name="app_actions_hide">مخفی کردن</string>
     <string name="app_actions_rename">تغییر نام</string>
+    <string name="app_actions_pin">سنجاق کردن</string>
+    <string name="app_actions_unpin">برداشتن سنجاق</string>
     <string name="app_actions_replace">جایگزین</string>
     <string name="app_actions_move_up">انتقال به بالا</string>
     <string name="app_actions_move_down">انتقال به پایین</string>

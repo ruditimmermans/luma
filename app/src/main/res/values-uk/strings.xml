@@ -62,7 +62,10 @@
 
     <!-- Status bar -->
     <string name="settings_status_bar">Рядок стану</string>
+    <string name="status_bar_visibility">Видимість</string>
     <string name="status_bar_enabled">Увімкнено</string>
+    <string name="status_bar_mode_none">Вимкнено</string>
+    <string name="status_bar_mode_android">Увімкнено (Android)</string>
     <string name="status_bar_time">Час</string>
     <string name="status_bar_time_enabled">Увімкнено</string>
     <string name="status_bar_time_format">Формат часу</string>
@@ -100,6 +103,8 @@
     <string name="app_actions_show">Показати</string>
     <string name="app_actions_hide">Приховати</string>
     <string name="app_actions_rename">Перейменувати</string>
+    <string name="app_actions_pin">Закріпити</string>
+    <string name="app_actions_unpin">Відкріпити</string>
     <string name="app_actions_replace">Замінити</string>
     <string name="app_actions_move_up">Перемістити вгору</string>
     <string name="app_actions_move_down">Перемістити вниз</string>

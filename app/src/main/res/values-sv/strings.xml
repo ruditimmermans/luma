@@ -60,7 +60,10 @@
     <string name="notifications_not_visible_permission_required">inte synlig (behörighet krävs)</string>
 
     <!-- Status bar screen -->
+    <string name="status_bar_visibility">Synlighet</string>
     <string name="status_bar_enabled">Aktiverad</string>
+    <string name="status_bar_mode_none">Inaktiverad</string>
+    <string name="status_bar_mode_android">Aktiverad (Android)</string>
     <string name="status_bar_time">Tid</string>
     <string name="status_bar_time_enabled">Aktiverad</string>
     <string name="status_bar_time_format">Tidsformat</string>
@@ -98,6 +101,8 @@
     <string name="app_actions_show">Visa</string>
     <string name="app_actions_hide">Dölj</string>
     <string name="app_actions_rename">Byt namn</string>
+    <string name="app_actions_pin">Fäst</string>
+    <string name="app_actions_unpin">Lossa</string>
     <string name="app_actions_replace">Ersätt</string>
     <string name="app_actions_move_up">Flytta upp</string>
     <string name="app_actions_move_down">Flytta ner</string>

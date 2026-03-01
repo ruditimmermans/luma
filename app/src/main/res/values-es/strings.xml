@@ -18,10 +18,10 @@
     <string name="settings_gestures">Gestos</string>
     <string name="settings_notifications">Notificaciones</string>
     <string name="settings_status_bar">Barra de estado</string>
-    <string name="settings_hidden_apps">Aplicaciones ocultas</string>
-    <string name="settings_default_launcher">Lanzador predeterminado</string>
-
-    <!-- Gesture actions -->
+    <string name="status_bar_visibility">Visibilidad</string>
+    <string name="status_bar_enabled">Activado</string>
+    <string name="status_bar_mode_none">Desactivado</string>
+    <string name="status_bar_mode_android">Activado (Android)</string>
     <string name="action_open_app">Abrir aplicación</string>
     <string name="action_lock_screen">Bloquear pantalla</string>
     <string name="action_show_notifications">Notificaciones (Android)</string>
@@ -95,6 +95,8 @@
     <string name="app_actions_show">Mostrar</string>
     <string name="app_actions_hide">Ocultar</string>
     <string name="app_actions_rename">Renombrar</string>
+    <string name="app_actions_pin">Fijar</string>
+    <string name="app_actions_unpin">Desfijar</string>
     <string name="app_actions_replace">Reemplazar</string>
     <string name="app_actions_move_up">Subir</string>
     <string name="app_actions_move_down">Bajar</string>

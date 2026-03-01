@@ -51,3 +51,4 @@ jobs:
         with:
           files: ${{ github.workspace }}/luma_${{ env.VERSION }}.apk
           tag_name: ${{ env.VERSION }}
+          generate_release_notes: true

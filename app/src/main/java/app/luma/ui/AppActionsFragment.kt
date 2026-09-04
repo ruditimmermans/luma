@@ -302,14 +302,14 @@ class AppActionsFragment : Fragment() {
                                 SimpleTextButton(stringResource(R.string.app_actions_move_up)) {
                                     prefs.moveAppInFolderUp(folder.id, pinnedEntry)
                                     ViewModelProvider(requireActivity())[MainViewModel::class.java].getAppList()
-                                    findNavController().popBackStack(R.id.mainFragment, false)
+                                    findNavController().popBackStack()
                                 }
                             }
                             if (index >= 0 && index < apps.size - 1) {
                                 SimpleTextButton(stringResource(R.string.app_actions_move_down)) {
                                     prefs.moveAppInFolderDown(folder.id, pinnedEntry)
                                     ViewModelProvider(requireActivity())[MainViewModel::class.java].getAppList()
-                                    findNavController().popBackStack(R.id.mainFragment, false)
+                                    findNavController().popBackStack()
                                 }
                             }
                         } else {
